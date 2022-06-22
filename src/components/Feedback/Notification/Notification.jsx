@@ -1,5 +1,5 @@
-import React from 'react'; // shortcut: rafc
-import PropTypes from 'prop-types'; // impt
+import React from 'react'; 
+import PropTypes from 'prop-types'; 
 
 export default function Notification({ message }) {
   return <p>{message}</p>;
